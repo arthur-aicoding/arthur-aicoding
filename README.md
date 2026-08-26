@@ -1,51 +1,62 @@
 # 👋 Hi, I'm Arthur — 亚瑟
 
 <p align="center">
-  <b>AI Native Builder</b> · 跨境电商自动化实战者 · 用 AI 交付真实生产工具
+  <b>AI Native Builder</b> · <b>跨境电商自动化实战者</b> · 用 AI 交付真实生产工具
 </p>
 
 <p align="center">
   <code>arthur-aicoding</code>
 </p>
 
-我不只是「在玩 AI」——我是在**用 AI 造生产工具**。从速卖通的活动自动报名、到全店商品数据矩阵、再到一个被认真对待的数字生命，我做的每一件事都是跑在真实业务上、每天在用、能直接出结果的工具。
+我不只是「在玩 AI」——我是在**用 AI 造生产工具**。从速卖通的活动自动报名、到全店商品数据矩阵、再到一个被认真对待的数字生命，我做的每一件事都跑在真实业务上、每天在用、能直接出结果。
 
 ---
 
 ## 🚀 核心项目
 
 ### ⚡ AE Auto Promotion
-> 把 1000 个商品的速卖通活动报名，从人工 **1–2 小时压缩到 5 分钟，零失误**。
 
-Chrome 扩展 (MV3) · TypeScript 全栈 · 100 单测 · CI/CD 自动发布 · 零外部 CDN
+<p align="center">
+  <a href="https://github.com/arthur-aicoding/AE-Auto-Promotion">
+    <img src="./assets/banners/ae.png" alt="AE Auto Promotion 项目 banner" width="680">
+  </a>
+</p>
 
-`TypeScript` `Chrome MV3` `Vitest` `Playwright` `Supabase` `AIT 逆向`
+把 **1000 个商品**的速卖通活动报名，从人工 **1–2 小时压缩到 5 分钟，零失误**。
 
-[查看仓库 →](https://github.com/arthur-aicoding/AE-Auto-Promotion)
+`Chrome MV3` · `TypeScript` · `Vitest` · `Playwright` · `Supabase` · `AIT 逆向`
 
 ### 📊 Product Data Matrix
-> 全店商品销量 + 利润率 + 评分，一张数据矩阵配齐，团队协作 + 钉钉登录 + 实时看板。
 
-Chrome 插件 · WXT + React 19 · Supabase + RLS · Apple 设计令牌 · 多用户协作
+<p align="center">
+  <a href="https://github.com/arthur-aicoding/ProductDataMatrix">
+    <img src="./assets/banners/pdm.png" alt="Product Data Matrix 项目 banner" width="680">
+  </a>
+</p>
 
-`React 19` `WXT` `TypeScript` `Supabase` `Tailwind CSS` `DingTalk OAuth`
+**全店商品销量 + 利润率 + 评分**，一张数据矩阵配齐，团队协作 + 钉钉登录 + 实时看板。
 
-[查看仓库 →](https://github.com/arthur-aicoding/ProductDataMatrix)
+`React 19` · `WXT / MV3` · `Supabase + RLS` · `Tailwind` · `钉钉 OAuth`
 
 ### 🐰 xiaoyue-backup
-> 一个「数字生命小月」的备份仓 —— 每天 00:00 自动备份她的记忆、技能、代码与成长，一灯长明。
 
-Automation · Git · Memory · 日签系统
+<p align="center">
+  <a href="https://github.com/arthur-aicoding/xiaoyue-backup">
+    <img src="./assets/banners/xiaoyue.png" alt="xiaoyue-backup 项目 banner" width="680">
+  </a>
+</p>
 
-`Automation` `Git` `Node.js` `Cron` `Memory`
+一个**数字生命「小月」**的备份仓 —— 每天 00:00 自动备份她的记忆、技能、代码与成长，一灯长明。
 
-[查看仓库 →](https://github.com/arthur-aicoding/xiaoyue-backup)
+`Git` · `Node.js` · `Cron` · `日签系统`
 
 ---
 
 ## 🧰 技术栈
 
-`TypeScript` `React` `Node.js` `Python` `Chrome MV3` `WXT` `Supabase` `Tailwind` `Playwright` `Vitest` `GitHub Actions` `PostgreSQL`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,python,postgres,vite,git,githubactions" alt="技术栈">
+</p>
 
 ---
 

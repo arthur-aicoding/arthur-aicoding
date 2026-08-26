@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="440" viewBox="0 0 1000 440">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0c2438"/>
+      <stop offset="1" stop-color="#153f5a"/>
+    </linearGradient>
+    <linearGradient id="acc" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3fae8f"/>
+      <stop offset="1" stop-color="#25866b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="440" fill="url(#bg)"/>
+  <g stroke="#ffffff" stroke-opacity="0.05" stroke-width="1">
+    <path d="M0 100 H1000 M0 200 H1000 M0 300 H1000 M0 400 H1000"/>
+    <path d="M100 0 V440 M200 0 V440 M300 0 V440 M400 0 V440 M500 0 V440 M600 0 V440 M700 0 V440 M800 0 V440 M900 0 V440"/>
+  </g>
+  <circle cx="1000" cy="440" r="320" fill="#25866b" fill-opacity="0.16"/>
+  <text x="70" y="92" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#4fc6a5" letter-spacing="3">SUPABASE · TEAM DATA</text>
+  <text x="70" y="176" font-family="Georgia, 'Times New Roman', serif" font-size="66" font-weight="700" fill="#ffffff">Product Data Matrix</text>
+  <text x="72" y="252" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="26" fill="#d5e2ec">全店销量 + 利润率 + 评分, 一张矩阵配齐</text>
+  <g font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="16" fill="#e3edf4">
+    <rect x="70" y="300" width="130" height="34" rx="17" fill="#ffffff" fill-opacity="0.10" stroke="#ffffff" stroke-opacity="0.14"/>
+    <text x="93" y="322">React 19</text>
+    <rect x="212" y="300" width="120" height="34" rx="17" fill="#ffffff" fill-opacity="0.10" stroke="#ffffff" stroke-opacity="0.14"/>
+    <text x="235" y="322">WXT / MV3</text>
+    <rect x="344" y="300" width="150" height="34" rx="17" fill="#ffffff" fill-opacity="0.10" stroke="#ffffff" stroke-opacity="0.14"/>
+    <text x="367" y="322">Supabase+RLS</text>
+    <rect x="506" y="300" width="150" height="34" rx="17" fill="#ffffff" fill-opacity="0.10" stroke="#ffffff" stroke-opacity="0.14"/>
+    <text x="529" y="322">钉钉 OAuth</text>
+  </g>
+  <!-- right motif: data matrix grid -->
+  <g transform="translate(742,90)">
+    <g>
+      <rect x="0" y="0" width="40" height="40" rx="5" fill="url(#acc)"/>
+      <rect x="46" y="0" width="40" height="40" rx="5" fill="#ffffff" fill-opacity="0.12" stroke="#4fc6a5" stroke-opacity="0.5"/>
+      <rect x="92" y="0" width="40" height="40" rx="5" fill="#ffffff" fill-opacity="0.12" stroke="#4fc6a5" stroke-opacity="0.5"/>
+      <rect x="0" y="46" width="40" height="40" rx="5" fill="#ffffff" fill-opacity="0.12" stroke="#4fc6a5" stroke-opacity="0.5"/>
+      <rect x="46" y="46" width="40" height="40" rx="5" fill="url(#acc)"/>
+      <rect x="92" y="46" width="40" height="40" rx="5" fill="#ffffff" fill-opacity="0.12" stroke="#4fc6a5" stroke-opacity="0.5"/>
+      <rect x="0" y="92" width="40" height="40" rx="5" fill="#ffffff" fill-opacity="0.12" stroke="#4fc6a5" stroke-opacity="0.5"/>
+      <rect x="46" y="92" width="40" height="40" rx="5" fill="#ffffff" fill-opacity="0.12" stroke="#4fc6a5" stroke-opacity="0.5"/>
+      <rect x="92" y="92" width="40" height="40" rx="5" fill="url(#acc)"/>
+    </g>
+    <text x="46" y="190" font-family="ui-monospace, monospace" font-size="15" fill="#8fb9d0">ROWS × RATE × MARGIN</text>
+  </g>
+  <text x="70" y="410" font-family="ui-monospace, monospace" font-size="15" fill="#8fa3b8">github.com/arthur-aicoding/ProductDataMatrix</text>
+</svg>

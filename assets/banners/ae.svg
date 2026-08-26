@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="440" viewBox="0 0 1000 440">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10263f"/>
+      <stop offset="1" stop-color="#183857"/>
+    </linearGradient>
+    <linearGradient id="acc" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e08b34"/>
+      <stop offset="1" stop-color="#c46a1a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="440" fill="url(#bg)"/>
+  <!-- grid -->
+  <g stroke="#ffffff" stroke-opacity="0.05" stroke-width="1">
+    <path d="M0 100 H1000 M0 200 H1000 M0 300 H1000 M0 400 H1000"/>
+    <path d="M100 0 V440 M200 0 V440 M300 0 V440 M400 0 V440 M500 0 V440 M600 0 V440 M700 0 V440 M800 0 V440 M900 0 V440"/>
+  </g>
+  <!-- accent corner glow -->
+  <circle cx="1000" cy="0" r="320" fill="#c46a1a" fill-opacity="0.14"/>
+  <!-- eyebrow -->
+  <text x="70" y="92" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#e08b34" letter-spacing="3">ALIEXPRESS · AUTOMATION</text>
+  <!-- title -->
+  <text x="70" y="176" font-family="Georgia, 'Times New Roman', serif" font-size="66" font-weight="700" fill="#ffffff">AE Auto Promotion</text>
+  <!-- value prop -->
+  <text x="72" y="252" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="26" fill="#cfdae6">1000 商品报名 · 1–2 小时 <tspan fill="#e08b34">→ 5 分钟, 零失误</tspan></text>
+  <!-- tech chips -->
+  <g font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="16" fill="#dfe8f0">
+    <rect x="70" y="300" width="150" height="34" rx="17" fill="#ffffff" fill-opacity="0.10" stroke="#ffffff" stroke-opacity="0.14"/>
+    <text x="93" y="322">Chrome MV3</text>
+    <rect x="232" y="300" width="140" height="34" rx="17" fill="#ffffff" fill-opacity="0.10" stroke="#ffffff" stroke-opacity="0.14"/>
+    <text x="255" y="322">TypeScript</text>
+    <rect x="384" y="300" width="120" height="34" rx="17" fill="#ffffff" fill-opacity="0.10" stroke="#ffffff" stroke-opacity="0.14"/>
+    <text x="407" y="322">100 单测</text>
+    <rect x="516" y="300" width="120" height="34" rx="17" fill="#ffffff" fill-opacity="0.10" stroke="#ffffff" stroke-opacity="0.14"/>
+    <text x="539" y="322">AIT 逆向</text>
+  </g>
+  <!-- right motif: automation flow -->
+  <g transform="translate(720,96)">
+    <rect x="0" y="14" width="96" height="34" rx="17" fill="#0f2035" stroke="#e08b34" stroke-opacity="0.5"/>
+    <text x="30" y="37" font-family="ui-monospace, monospace" font-size="15" fill="#e08b34">1-2h</text>
+    <path d="M112 31 H172" stroke="#e08b34" stroke-width="2" stroke-dasharray="5 5"/>
+    <rect x="176" y="14" width="128" height="34" rx="17" fill="url(#acc)"/>
+    <text x="210" y="37" font-family="ui-monospace, monospace" font-size="15" fill="#0f2035" font-weight="700">5 min</text>
+    <!-- bolt -->
+    <path d="M150 96 L136 152 L160 152 L144 208" fill="none" stroke="#e08b34" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M150 74 L136 130 L160 130 L144 186" fill="none" stroke="#e08b34" stroke-width="3" stroke-linejoin="round" opacity="0.35" transform="translate(14,-64)"/>
+  </g>
+  <text x="70" y="410" font-family="ui-monospace, monospace" font-size="15" fill="#8fa3b8">github.com/arthur-aicoding/AE-Auto-Promotion</text>
+</svg>
