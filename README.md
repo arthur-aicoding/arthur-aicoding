@@ -52,20 +52,6 @@
 
 ---
 
-## 🏢 极客思维科技
-
-<p align="center">
-  <a href="https://www.geekthink.top">
-    <img src="./assets/banners/geekthink.png" alt="极客思维科技 公司主页" width="680">
-  </a>
-</p>
-
-把想法变成在线产品 —— 官网 www.geekthink.top，6 页 SPA、零外部依赖、SEO 友好。
-
-`Vite` · `零外部依赖` · `SEO` · `响应式`
-
----
-
 ## 🧰 技术栈
 
 <p align="center">
@@ -84,6 +70,7 @@
 
 ## 📬 找到我
 
+- 🏢 极客思维科技 · <https://www.geekthink.top>
 - 📮 邮箱 · `wingshell819@gmail.com`
 - 🌐 产品基地 · [Arthur_Base 知识库](https://github.com/arthur-aicoding/Arthur_Base)
 
