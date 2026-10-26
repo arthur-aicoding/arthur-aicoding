@@ -9,17 +9,23 @@
 <!-- STATS -->
 [![Total Stars](https://img.shields.io/badge/Total%20Stars-0-FFD93D?style=flat&logo=github&logoColor=white)](https://github.com/arthur-aicoding)
 [![Followers](https://img.shields.io/badge/Followers-2-4C8BF5?style=flat&logo=github&logoColor=white)](https://github.com/arthur-aicoding?tab=followers)
-[![Public Repos](https://img.shields.io/badge/Public%20Repos-5-2EA44F?style=flat&logo=github&logoColor=white)](https://github.com/arthur-aicoding?tab=repositories)
+[![Public Repos](https://img.shields.io/badge/Public%20Repos-6-2EA44F?style=flat&logo=github&logoColor=white)](https://github.com/arthur-aicoding?tab=repositories)
 
 ---
 
 ### 我在做的事
 
-**AE Auto Promotion** — 把 1000 个商品的速卖通活动报名，从人工 **1–2 小时压到 5 分钟，零失误**。
+**AliExpress ShopMaster** — 全托管多店巡店：9 页经营数据每天自动采完，入钉钉表、出日报卡片，月末出罚款率红线报告。手工巡店 1 小时压到 5 分钟。
 
-[![AE Auto Promotion](assets/banners/ae.png)](https://github.com/arthur-aicoding/AE-Auto-Promotion)
+[![AliExpress ShopMaster](assets/banners/shopmaster.png)](https://github.com/arthur-aicoding/AliExpressShopMaster)
 
-`Chrome MV3` · `TypeScript` · `Vitest` · `Playwright` · `Supabase`
+`Python 3.10+` · `Playwright / CDP` · `钉钉 Notable` · `紫鸟 / 稳卖`
+
+**PowerOps Toolkit** — 速卖通超级助手：商品编辑、SKU 编码、邀约报名退出、仓发补货、抢坑六个工具收进一个侧栏。插件算、人确认，写操作默认停手。
+
+[![PowerOps Toolkit](assets/banners/powerops.png)](https://github.com/arthur-aicoding/AliExpress-PowerOps-Toolkit)
+
+`Chrome MV3` · `Side Panel` · `零依赖 JS` · `Supabase`
 
 **Product Data Matrix** — 全店商品的销量、利润率、评分，一张矩阵配齐。团队协作 + 钉钉登录 + 实时看板。
 
