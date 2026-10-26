@@ -21,11 +21,11 @@
 
 `Python 3.10+` · `Playwright / CDP` · `钉钉 Notable` · `紫鸟 / 稳卖`
 
-**PowerOps Toolkit** — 速卖通超级助手：商品编辑、SKU 编码、邀约报名退出、仓发补货、抢坑六个工具收进一个侧栏。插件算、人确认，写操作默认停手。
+**PowerOps Toolkit** — 速卖通超级助手：六个工具收进一个侧栏。Transformer 架构按需注入页面脚本、即时响应，配置按运营和店铺分开记，越用越顺手——插件算、人确认。
 
 [![PowerOps Toolkit](assets/banners/powerops.png)](https://github.com/arthur-aicoding/AliExpress-PowerOps-Toolkit)
 
-`Chrome MV3` · `Side Panel` · `零依赖 JS` · `Supabase`
+`Chrome MV3` · `Transformer 架构` · `按需注入` · `Supabase`
 
 **Product Data Matrix** — 全店商品的销量、利润率、评分，一张矩阵配齐。团队协作 + 钉钉登录 + 实时看板。
 
